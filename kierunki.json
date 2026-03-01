@@ -268,4 +268,5 @@
   { "kod": "PRG5", "adres": "PRG5\nPRŮMYSLOVÁ 88\nVRSKMAŇ, CENTRAL BOHEMIAN REGION\n431 11", "typ": "INTERNATIONAL" },
   { "kod": "OSYG-1", "adres": "OSYG-1\nAm Zeugamt 4\n04758\nOschatz", "typ": "INTERNATIONAL" },
 {"kod": "TRN3", "adres": "TRN3\nSTRADA JOHN FITZGERALD KENNEDY\nALESSANDRIA\nPIEDMONT\n15122", "typ": "INTERNATIONAL" },
+{"kod": "BHLE", "adres": "BHLE\nDOMO COLLECTION\nLEŚNA 6\nŚREM, WIELKOPOLSKIE\n63-100", "typ": "NATIONAL" },
 ]
