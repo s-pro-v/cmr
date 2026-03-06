@@ -32,5 +32,1712 @@
   { "kod": "AZPIL", "pelnyKod": "AZPIL", "opis": "CEQP AZPIL EMPTY TRAILER" },
   { "kod": "AXFVW", "pelnyKod": "AXFVW", "opis": "CEQP AXFVW EMPTY TRAILER" },
   { "kod": "AWIUB", "pelnyKod": "AWIUB", "opis": "CEQP AWIUB EMPTY TRAILER" },
-  { "kod": "AEMBT", "pelnyKod": "AEMBT", "opis": "CEQP AEMBT EMPTY TRAILER" }
+  { "kod": "AEMBT", "pelnyKod": "AEMBT", "opis": "CEQP AEMBT EMPTY TRAILER" },
+
+    {
+        "kod": "JCFI5",
+        "pelnyKod": "JCFI5",
+        "opis": "CEQP JCFI5 EMPTY TRAILER"
+    },
+    {
+        "kod": "NDENT",
+        "pelnyKod": "NDENT",
+        "opis": "CEQP NDENT EMPTY TRAILER"
+    },
+    {
+        "kod": "ADMXV",
+        "pelnyKod": "ADMXV",
+        "opis": "CEQP ADMXV EMPTY TRAILER"
+    },
+    {
+        "kod": "LANUT",
+        "pelnyKod": "LANUT",
+        "opis": "CEQP LANUT EMPTY TRAILER"
+    },
+    {
+        "kod": "DEMOD",
+        "pelnyKod": "DEMOD",
+        "opis": "CEQP DEMOD EMPTY TRAILER"
+    },
+    {
+        "kod": "GEOC5",
+        "pelnyKod": "GEOC5",
+        "opis": "CEQP GEOC5 EMPTY TRAILER"
+    },
+    {
+        "kod": "MEHE5",
+        "pelnyKod": "MEHE5",
+        "opis": "CEQP MEHE5 EMPTY TRAILER"
+    },
+    {
+        "kod": "GAMU1",
+        "pelnyKod": "GAMU1",
+        "opis": "CEQP GAMU1 EMPTY TRAILER"
+    },
+    {
+        "kod": "HACAS",
+        "pelnyKod": "HACAS",
+        "opis": "CEQP HACAS EMPTY TRAILER"
+    },
+    {
+        "kod": "DSVS",
+        "pelnyKod": "DSVS",
+        "opis": "CEQP DSVS EMPTY TRAILER"
+    },
+    {
+        "kod": "OWENS",
+        "pelnyKod": "OWENS",
+        "opis": "CEQP OWENS EMPTY TRAILER"
+    },
+    {
+        "kod": "GAUTZ",
+        "pelnyKod": "GAUTZ",
+        "opis": "CEQP GAUTZ EMPTY TRAILER"
+    },
+    {
+        "kod": "DHLBE",
+        "pelnyKod": "DHLBE",
+        "opis": "CEQP DHLBE EMPTY TRAILER"
+    },
+    {
+        "kod": "AALDB",
+        "pelnyKod": "AALDB",
+        "opis": "CEQP AALDB EMPTY TRAILER"
+    },
+    {
+        "kod": "SKRB",
+        "pelnyKod": "SKRB",
+        "opis": "CEQP SKRB EMPTY TRAILER"
+    },
+    {
+        "kod": "AZKR6",
+        "pelnyKod": "AZKR6",
+        "opis": "CEQP AZKR6 EMPTY TRAILER"
+    },
+    {
+        "kod": "ROTR",
+        "pelnyKod": "ROTR",
+        "opis": "CEQP ROTR EMPTY TRAILER"
+    },
+    {
+        "kod": "NELL4",
+        "pelnyKod": "NELL4",
+        "opis": "CEQP NELL4 EMPTY TRAILER"
+    },
+    {
+        "kod": "GEOD6",
+        "pelnyKod": "GEOD6",
+        "opis": "CEQP GEOD6 EMPTY TRAILER"
+    },
+    {
+        "kod": "GIDL5",
+        "pelnyKod": "GIDL5",
+        "opis": "CEQP GIDL5 EMPTY TRAILER"
+    },
+    {
+        "kod": "SEDI5",
+        "pelnyKod": "SEDI5",
+        "opis": "CEQP SEDI5 EMPTY TRAILER"
+    },
+    {
+        "kod": "DHLIT",
+        "pelnyKod": "DHLIT",
+        "opis": "CEQP DHLIT EMPTY TRAILER"
+    },
+    {
+        "kod": "BURS4",
+        "pelnyKod": "BURS4",
+        "opis": "CEQP BURS4 EMPTY TRAILER"
+    },
+    {
+        "kod": "BOND5",
+        "pelnyKod": "BOND5",
+        "opis": "CEQP BOND5 EMPTY TRAILER"
+    },
+    {
+        "kod": "1SEUR",
+        "pelnyKod": "1SEUR",
+        "opis": "CEQP 1SEUR EMPTY TRAILER"
+    },
+    {
+        "kod": "VILLA",
+        "pelnyKod": "VILLA",
+        "opis": "CEQP VILLA EMPTY TRAILER"
+    },
+    {
+        "kod": "LEROY",
+        "pelnyKod": "LEROY",
+        "opis": "CEQP LEROY EMPTY TRAILER"
+    },
+    {
+        "kod": "VALS5",
+        "pelnyKod": "VALS5",
+        "opis": "CEQP VALS5 EMPTY TRAILER"
+    },
+    {
+        "kod": "BSLM",
+        "pelnyKod": "BSLM",
+        "opis": "CEQP BSLM EMPTY TRAILER"
+    },
+    {
+        "kod": "TNTXX",
+        "pelnyKod": "TNTXX",
+        "opis": "CEQP TNTXX EMPTY TRAILER"
+    },
+    {
+        "kod": "GEERT",
+        "pelnyKod": "GEERT",
+        "opis": "CEQP GEERT EMPTY TRAILER"
+    },
+    {
+        "kod": "HKOE4",
+        "pelnyKod": "HKOE4",
+        "opis": "CEQP HKOE4 EMPTY TRAILER"
+    },
+    {
+        "kod": "BSHPE",
+        "pelnyKod": "BSHPE",
+        "opis": "CEQP BSHPE EMPTY TRAILER"
+    },
+    {
+        "kod": "RHEN6",
+        "pelnyKod": "RHEN6",
+        "opis": "CEQP RHEN6 EMPTY TRAILER"
+    },
+    {
+        "kod": "MARCH",
+        "pelnyKod": "MARCH",
+        "opis": "CEQP MARCH EMPTY TRAILER"
+    },
+    {
+        "kod": "DELT5",
+        "pelnyKod": "DELT5",
+        "opis": "CEQP DELT5 EMPTY TRAILER"
+    },
+    {
+        "kod": "KN",
+        "pelnyKod": "KN",
+        "opis": "CEQP KN EMPTY TRAILER"
+    },
+    {
+        "kod": "AFXDE",
+        "pelnyKod": "AFXDE",
+        "opis": "CEQP AFXDE EMPTY TRAILER"
+    },
+    {
+        "kod": "POLN",
+        "pelnyKod": "POLN",
+        "opis": "CEQP POLN EMPTY TRAILER"
+    },
+    {
+        "kod": "SCAC",
+        "pelnyKod": "SCAC",
+        "opis": "CEQP SCAC EMPTY TRAILER"
+    },
+    {
+        "kod": "JANDR",
+        "pelnyKod": "JANDR",
+        "opis": "CEQP JANDR EMPTY TRAILER"
+    },
+    {
+        "kod": "CONVO",
+        "pelnyKod": "CONVO",
+        "opis": "CEQP CONVO EMPTY TRAILER"
+    },
+    {
+        "kod": "TEST0",
+        "pelnyKod": "TEST0",
+        "opis": "CEQP TEST0 EMPTY TRAILER"
+    },
+    {
+        "kod": "OPTO",
+        "pelnyKod": "OPTO",
+        "opis": "CEQP OPTO EMPTY TRAILER"
+    },
+    {
+        "kod": "HGGHH",
+        "pelnyKod": "HGGHH",
+        "opis": "CEQP HGGHH EMPTY TRAILER"
+    },
+    {
+        "kod": "LOGI",
+        "pelnyKod": "LOGI",
+        "opis": "CEQP LOGI EMPTY TRAILER"
+    },
+    {
+        "kod": "FLASH",
+        "pelnyKod": "FLASH",
+        "opis": "CEQP FLASH EMPTY TRAILER"
+    },
+    {
+        "kod": "APLAF",
+        "pelnyKod": "APLAF",
+        "opis": "CEQP APLAF EMPTY TRAILER"
+    },
+    {
+        "kod": "BVAA",
+        "pelnyKod": "BVAA",
+        "opis": "CEQP BVAA EMPTY TRAILER"
+    },
+    {
+        "kod": "PTK1",
+        "pelnyKod": "PTK1",
+        "opis": "CEQP PTK1 EMPTY TRAILER"
+    },
+    {
+        "kod": "SCNKR",
+        "pelnyKod": "SCNKR",
+        "opis": "CEQP SCNKR EMPTY TRAILER"
+    },
+    {
+        "kod": "DPNEW",
+        "pelnyKod": "DPNEW",
+        "opis": "CEQP DPNEW EMPTY TRAILER"
+    },
+    {
+        "kod": "LKWWT",
+        "pelnyKod": "LKWWT",
+        "opis": "CEQP LKWWT EMPTY TRAILER"
+    },
+    {
+        "kod": "ATRJA",
+        "pelnyKod": "ATRJA",
+        "opis": "CEQP ATRJA EMPTY TRAILER"
+    },
+    {
+        "kod": "APFA",
+        "pelnyKod": "APFA",
+        "opis": "CEQP APFA EMPTY TRAILER"
+    },
+    {
+        "kod": "AVITE",
+        "pelnyKod": "AVITE",
+        "opis": "CEQP AVITE EMPTY TRAILER"
+    },
+    {
+        "kod": "PEGAZ",
+        "pelnyKod": "PEGAZ",
+        "opis": "CEQP PEGAZ EMPTY TRAILER"
+    },
+    {
+        "kod": "UKNK",
+        "pelnyKod": "UKNK",
+        "opis": "CEQP UKNK EMPTY TRAILER"
+    },
+    {
+        "kod": "AHISA",
+        "pelnyKod": "AHISA",
+        "opis": "CEQP AHISA EMPTY TRAILER"
+    },
+    {
+        "kod": "STOB",
+        "pelnyKod": "STOB",
+        "opis": "CEQP STOB EMPTY TRAILER"
+    },
+    {
+        "kod": "FARV1",
+        "pelnyKod": "FARV1",
+        "opis": "CEQP FARV1 EMPTY TRAILER"
+    },
+    {
+        "kod": "TDHL",
+        "pelnyKod": "TDHL",
+        "opis": "CEQP TDHL EMPTY TRAILER"
+    },
+    {
+        "kod": "HRMBR",
+        "pelnyKod": "HRMBR",
+        "opis": "CEQP HRMBR EMPTY TRAILER"
+    },
+    {
+        "kod": "ANGLL",
+        "pelnyKod": "ANGLL",
+        "opis": "CEQP ANGLL EMPTY TRAILER"
+    },
+    {
+        "kod": "SERTR",
+        "pelnyKod": "SERTR",
+        "opis": "CEQP SERTR EMPTY TRAILER"
+    },
+    {
+        "kod": "AFRAG",
+        "pelnyKod": "AFRAG",
+        "opis": "CEQP AFRAG EMPTY TRAILER"
+    },
+    {
+        "kod": "POFM",
+        "pelnyKod": "POFM",
+        "opis": "CEQP POFM EMPTY TRAILER"
+    },
+    {
+        "kod": "BOYACA",
+        "pelnyKod": "BOYACA",
+        "opis": "CEQP BOYACA EMPTY TRAILER"
+    },
+    {
+        "kod": "ATFCS",
+        "pelnyKod": "ATFCS",
+        "opis": "CEQP ATFCS EMPTY TRAILER"
+    },
+    {
+        "kod": "GEMEX",
+        "pelnyKod": "GEMEX",
+        "opis": "CEQP GEMEX EMPTY TRAILER"
+    },
+    {
+        "kod": "AKNAC",
+        "pelnyKod": "AKNAC",
+        "opis": "CEQP AKNAC EMPTY TRAILER"
+    },
+    {
+        "kod": "AAAGE",
+        "pelnyKod": "AAAGE",
+        "opis": "CEQP AAAGE EMPTY TRAILER"
+    },
+    {
+        "kod": "ACERS",
+        "pelnyKod": "ACERS",
+        "opis": "CEQP ACERS EMPTY TRAILER"
+    },
+    {
+        "kod": "ANFSZ",
+        "pelnyKod": "ANFSZ",
+        "opis": "CEQP ANFSZ EMPTY TRAILER"
+    },
+    {
+        "kod": "AQBBU",
+        "pelnyKod": "AQBBU",
+        "opis": "CEQP AQBBU EMPTY TRAILER"
+    },
+    {
+        "kod": "ATCMK",
+        "pelnyKod": "ATCMK",
+        "opis": "CEQP ATCMK EMPTY TRAILER"
+    },
+    {
+        "kod": "UNKNO",
+        "pelnyKod": "UNKNO",
+        "opis": "CEQP UNKNO EMPTY TRAILER"
+    },
+    {
+        "kod": "AKNYZ",
+        "pelnyKod": "AKNYZ",
+        "opis": "CEQP AKNYZ EMPTY TRAILER"
+    },
+    {
+        "kod": "DPKIT",
+        "pelnyKod": "DPKIT",
+        "opis": "CEQP DPKIT EMPTY TRAILER"
+    },
+    {
+        "kod": "NESZ8",
+        "pelnyKod": "NESZ8",
+        "opis": "CEQP NESZ8 EMPTY TRAILER"
+    },
+    {
+        "kod": "HMUK",
+        "pelnyKod": "HMUK",
+        "opis": "CEQP HMUK EMPTY TRAILER"
+    },
+    {
+        "kod": "AHATS",
+        "pelnyKod": "AHATS",
+        "opis": "CEQP AHATS EMPTY TRAILER"
+    },
+    {
+        "kod": "ABCD",
+        "pelnyKod": "ABCD",
+        "opis": "CEQP ABCD EMPTY TRAILER"
+    },
+    {
+        "kod": "ADNLP",
+        "pelnyKod": "ADNLP",
+        "opis": "CEQP ADNLP EMPTY TRAILER"
+    },
+    {
+        "kod": "ALOMP",
+        "pelnyKod": "ALOMP",
+        "opis": "CEQP ALOMP EMPTY TRAILER"
+    },
+    {
+        "kod": "AHTTP",
+        "pelnyKod": "AHTTP",
+        "opis": "CEQP AHTTP EMPTY TRAILER"
+    },
+    {
+        "kod": "AGSSC",
+        "pelnyKod": "AGSSC",
+        "opis": "CEQP AGSSC EMPTY TRAILER"
+    },
+    {
+        "kod": "ACNWQ",
+        "pelnyKod": "ACNWQ",
+        "opis": "CEQP ACNWQ EMPTY TRAILER"
+    },
+    {
+        "kod": "ADELB",
+        "pelnyKod": "ADELB",
+        "opis": "CEQP ADELB EMPTY TRAILER"
+    },
+    {
+        "kod": "AOFPT",
+        "pelnyKod": "AOFPT",
+        "opis": "CEQP AOFPT EMPTY TRAILER"
+    },
+    {
+        "kod": "AQUMK",
+        "pelnyKod": "AQUMK",
+        "opis": "CEQP AQUMK EMPTY TRAILER"
+    },
+    {
+        "kod": "AMBA",
+        "pelnyKod": "AMBA",
+        "opis": "CEQP AMBA EMPTY TRAILER"
+    },
+    {
+        "kod": "SAICA.",
+        "pelnyKod": "SAICA.",
+        "opis": "CEQP SAICA. EMPTY TRAILER"
+    },
+    {
+        "kod": "AEURR",
+        "pelnyKod": "AEURR",
+        "opis": "CEQP AEURR EMPTY TRAILER"
+    },
+    {
+        "kod": "AJOOZ",
+        "pelnyKod": "AJOOZ",
+        "opis": "CEQP AJOOZ EMPTY TRAILER"
+    },
+    {
+        "kod": "ARGUV",
+        "pelnyKod": "ARGUV",
+        "opis": "CEQP ARGUV EMPTY TRAILER"
+    },
+    {
+        "kod": "AQQLZ",
+        "pelnyKod": "AQQLZ",
+        "opis": "CEQP AQQLZ EMPTY TRAILER"
+    },
+    {
+        "kod": "PLTLD",
+        "pelnyKod": "PLTLD",
+        "opis": "CEQP PLTLD EMPTY TRAILER"
+    },
+    {
+        "kod": "AEMLS",
+        "pelnyKod": "AEMLS",
+        "opis": "CEQP AEMLS EMPTY TRAILER"
+    },
+    {
+        "kod": "AHYNT",
+        "pelnyKod": "AHYNT",
+        "opis": "CEQP AHYNT EMPTY TRAILER"
+    },
+    {
+        "kod": "AHGRP",
+        "pelnyKod": "AHGRP",
+        "opis": "CEQP AHGRP EMPTY TRAILER"
+    },
+    {
+        "kod": "ACRLO",
+        "pelnyKod": "ACRLO",
+        "opis": "CEQP ACRLO EMPTY TRAILER"
+    },
+    {
+        "kod": "AEYGF",
+        "pelnyKod": "AEYGF",
+        "opis": "CEQP AEYGF EMPTY TRAILER"
+    },
+    {
+        "kod": "DYMMY",
+        "pelnyKod": "DYMMY",
+        "opis": "CEQP DYMMY EMPTY TRAILER"
+    },
+    {
+        "kod": "HREMS",
+        "pelnyKod": "HREMS",
+        "opis": "CEQP HREMS EMPTY TRAILER"
+    },
+    {
+        "kod": "AALGS",
+        "pelnyKod": "AALGS",
+        "opis": "CEQP AALGS EMPTY TRAILER"
+    },
+    {
+        "kod": "AZRBO",
+        "pelnyKod": "AZRBO",
+        "opis": "CEQP AZRBO EMPTY TRAILER"
+    },
+    {
+        "kod": "AMNTR",
+        "pelnyKod": "AMNTR",
+        "opis": "CEQP AMNTR EMPTY TRAILER"
+    },
+    {
+        "kod": "AKATG",
+        "pelnyKod": "AKATG",
+        "opis": "CEQP AKATG EMPTY TRAILER"
+    },
+    {
+        "kod": "ANCSP",
+        "pelnyKod": "ANCSP",
+        "opis": "CEQP ANCSP EMPTY TRAILER"
+    },
+    {
+        "kod": "APMXY",
+        "pelnyKod": "APMXY",
+        "opis": "CEQP APMXY EMPTY TRAILER"
+    },
+    {
+        "kod": "AMANL",
+        "pelnyKod": "AMANL",
+        "opis": "CEQP AMANL EMPTY TRAILER"
+    },
+    {
+        "kod": "AEZIV",
+        "pelnyKod": "AEZIV",
+        "opis": "CEQP AEZIV EMPTY TRAILER"
+    },
+    {
+        "kod": "AQYRO",
+        "pelnyKod": "AQYRO",
+        "opis": "CEQP AQYRO EMPTY TRAILER"
+    },
+    {
+        "kod": "ADGHW",
+        "pelnyKod": "ADGHW",
+        "opis": "CEQP ADGHW EMPTY TRAILER"
+    },
+    {
+        "kod": "AKKBS",
+        "pelnyKod": "AKKBS",
+        "opis": "CEQP AKKBS EMPTY TRAILER"
+    },
+    {
+        "kod": "AGYCS",
+        "pelnyKod": "AGYCS",
+        "opis": "CEQP AGYCS EMPTY TRAILER"
+    },
+    {
+        "kod": "ANXTL",
+        "pelnyKod": "ANXTL",
+        "opis": "CEQP ANXTL EMPTY TRAILER"
+    },
+    {
+        "kod": "AKJWV",
+        "pelnyKod": "AKJWV",
+        "opis": "CEQP AKJWV EMPTY TRAILER"
+    },
+    {
+        "kod": "ABMTU",
+        "pelnyKod": "ABMTU",
+        "opis": "CEQP ABMTU EMPTY TRAILER"
+    },
+    {
+        "kod": "AATIP",
+        "pelnyKod": "AATIP",
+        "opis": "CEQP AATIP EMPTY TRAILER"
+    },
+    {
+        "kod": "TOFLX",
+        "pelnyKod": "TOFLX",
+        "opis": "CEQP TOFLX EMPTY TRAILER"
+    },
+    {
+        "kod": "AALPY",
+        "pelnyKod": "AALPY",
+        "opis": "CEQP AALPY EMPTY TRAILER"
+    },
+    {
+        "kod": "TSR",
+        "pelnyKod": "TSR",
+        "opis": "CEQP TSR EMPTY TRAILER"
+    },
+    {
+        "kod": "AEXTA",
+        "pelnyKod": "AEXTA",
+        "opis": "CEQP AEXTA EMPTY TRAILER"
+    },
+    {
+        "kod": "TEST",
+        "pelnyKod": "TEST",
+        "opis": "CEQP TEST EMPTY TRAILER"
+    },
+    {
+        "kod": "AAIMY",
+        "pelnyKod": "AAIMY",
+        "opis": "CEQP AAIMY EMPTY TRAILER"
+    },
+    {
+        "kod": "MART1",
+        "pelnyKod": "MART1",
+        "opis": "CEQP MART1 EMPTY TRAILER"
+    },
+    {
+        "kod": "XUKM",
+        "pelnyKod": "XUKM",
+        "opis": "CEQP XUKM EMPTY TRAILER"
+    },
+    {
+        "kod": "AJEGL",
+        "pelnyKod": "AJEGL",
+        "opis": "CEQP AJEGL EMPTY TRAILER"
+    },
+    {
+        "kod": "AEWDW",
+        "pelnyKod": "AEWDW",
+        "opis": "CEQP AEWDW EMPTY TRAILER"
+    },
+    {
+        "kod": "AZMLU",
+        "pelnyKod": "AZMLU",
+        "opis": "CEQP AZMLU EMPTY TRAILER"
+    },
+    {
+        "kod": "ARCHC",
+        "pelnyKod": "ARCHC",
+        "opis": "CEQP ARCHC EMPTY TRAILER"
+    },
+    {
+        "kod": "AHUOL",
+        "pelnyKod": "AHUOL",
+        "opis": "CEQP AHUOL EMPTY TRAILER"
+    },
+    {
+        "kod": "AAIBD",
+        "pelnyKod": "AAIBD",
+        "opis": "CEQP AAIBD EMPTY TRAILER"
+    },
+    {
+        "kod": "ANWRO",
+        "pelnyKod": "ANWRO",
+        "opis": "CEQP ANWRO EMPTY TRAILER"
+    },
+    {
+        "kod": "AVRLW",
+        "pelnyKod": "AVRLW",
+        "opis": "CEQP AVRLW EMPTY TRAILER"
+    },
+    {
+        "kod": "DHLUK",
+        "pelnyKod": "DHLUK",
+        "opis": "CEQP DHLUK EMPTY TRAILER"
+    },
+    {
+        "kod": "ADOTS",
+        "pelnyKod": "ADOTS",
+        "opis": "CEQP ADOTS EMPTY TRAILER"
+    },
+    {
+        "kod": "AEQOM",
+        "pelnyKod": "AEQOM",
+        "opis": "CEQP AEQOM EMPTY TRAILER"
+    },
+    {
+        "kod": "ACLZF",
+        "pelnyKod": "ACLZF",
+        "opis": "CEQP ACLZF EMPTY TRAILER"
+    },
+    {
+        "kod": "AVIQQ",
+        "pelnyKod": "AVIQQ",
+        "opis": "CEQP AVIQQ EMPTY TRAILER"
+    },
+    {
+        "kod": "AISTP",
+        "pelnyKod": "AISTP",
+        "opis": "CEQP AISTP EMPTY TRAILER"
+    },
+    {
+        "kod": "PAL",
+        "pelnyKod": "PAL",
+        "opis": "CEQP PAL EMPTY TRAILER"
+    },
+    {
+        "kod": "ALUTH",
+        "pelnyKod": "ALUTH",
+        "opis": "CEQP ALUTH EMPTY TRAILER"
+    },
+    {
+        "kod": "AZLCX",
+        "pelnyKod": "AZLCX",
+        "opis": "CEQP AZLCX EMPTY TRAILER"
+    },
+    {
+        "kod": "AQKMS",
+        "pelnyKod": "AQKMS",
+        "opis": "CEQP AQKMS EMPTY TRAILER"
+    },
+    {
+        "kod": "RHENU",
+        "pelnyKod": "RHENU",
+        "opis": "CEQP RHENU EMPTY TRAILER"
+    },
+    {
+        "kod": "ASEGL",
+        "pelnyKod": "ASEGL",
+        "opis": "CEQP ASEGL EMPTY TRAILER"
+    },
+    {
+        "kod": "AXIS",
+        "pelnyKod": "AXIS",
+        "opis": "CEQP AXIS EMPTY TRAILER"
+    },
+    {
+        "kod": "ABHKR",
+        "pelnyKod": "ABHKR",
+        "opis": "CEQP ABHKR EMPTY TRAILER"
+    },
+    {
+        "kod": "AURYL",
+        "pelnyKod": "AURYL",
+        "opis": "CEQP AURYL EMPTY TRAILER"
+    },
+    {
+        "kod": "ABAGS",
+        "pelnyKod": "ABAGS",
+        "opis": "CEQP ABAGS EMPTY TRAILER"
+    },
+    {
+        "kod": "AQAEZ",
+        "pelnyKod": "AQAEZ",
+        "opis": "CEQP AQAEZ EMPTY TRAILER"
+    },
+    {
+        "kod": "ARAWW",
+        "pelnyKod": "ARAWW",
+        "opis": "CEQP ARAWW EMPTY TRAILER"
+    },
+    {
+        "kod": "AJPPL",
+        "pelnyKod": "AJPPL",
+        "opis": "CEQP AJPPL EMPTY TRAILER"
+    },
+    {
+        "kod": "AYTYH",
+        "pelnyKod": "AYTYH",
+        "opis": "CEQP AYTYH EMPTY TRAILER"
+    },
+    {
+        "kod": "AFSPO",
+        "pelnyKod": "AFSPO",
+        "opis": "CEQP AFSPO EMPTY TRAILER"
+    },
+    {
+        "kod": "1ASCH",
+        "pelnyKod": "1ASCH",
+        "opis": "CEQP 1ASCH EMPTY TRAILER"
+    },
+    {
+        "kod": "AZZBG",
+        "pelnyKod": "AZZBG",
+        "opis": "CEQP AZZBG EMPTY TRAILER"
+    },
+    {
+        "kod": "AEUDL",
+        "pelnyKod": "AEUDL",
+        "opis": "CEQP AEUDL EMPTY TRAILER"
+    },
+    {
+        "kod": "APTHJ",
+        "pelnyKod": "APTHJ",
+        "opis": "CEQP APTHJ EMPTY TRAILER"
+    },
+    {
+        "kod": "AEPLS",
+        "pelnyKod": "AEPLS",
+        "opis": "CEQP AEPLS EMPTY TRAILER"
+    },
+    {
+        "kod": "AVLMG",
+        "pelnyKod": "AVLMG",
+        "opis": "CEQP AVLMG EMPTY TRAILER"
+    },
+    {
+        "kod": "AKEDL",
+        "pelnyKod": "AKEDL",
+        "opis": "CEQP AKEDL EMPTY TRAILER"
+    },
+    {
+        "kod": "AFXMF",
+        "pelnyKod": "AFXMF",
+        "opis": "CEQP AFXMF EMPTY TRAILER"
+    },
+    {
+        "kod": "ASCRR",
+        "pelnyKod": "ASCRR",
+        "opis": "CEQP ASCRR EMPTY TRAILER"
+    },
+    {
+        "kod": "AFSKS",
+        "pelnyKod": "AFSKS",
+        "opis": "CEQP AFSKS EMPTY TRAILER"
+    },
+    {
+        "kod": "DEUPT",
+        "pelnyKod": "DEUPT",
+        "opis": "CEQP DEUPT EMPTY TRAILER"
+    },
+    {
+        "kod": "ATREC",
+        "pelnyKod": "ATREC",
+        "opis": "CEQP ATREC EMPTY TRAILER"
+    },
+    {
+        "kod": "HWLA",
+        "pelnyKod": "HWLA",
+        "opis": "CEQP HWLA EMPTY TRAILER"
+    },
+    {
+        "kod": "LOGIC",
+        "pelnyKod": "LOGIC",
+        "opis": "CEQP LOGIC EMPTY TRAILER"
+    },
+    {
+        "kod": "ATSKU",
+        "pelnyKod": "ATSKU",
+        "opis": "CEQP ATSKU EMPTY TRAILER"
+    },
+    {
+        "kod": "TNTUK",
+        "pelnyKod": "TNTUK",
+        "opis": "CEQP TNTUK EMPTY TRAILER"
+    },
+    {
+        "kod": "BART75",
+        "pelnyKod": "BART75",
+        "opis": "CEQP BART75 EMPTY TRAILER"
+    },
+    {
+        "kod": "AJAHV",
+        "pelnyKod": "AJAHV",
+        "opis": "CEQP AJAHV EMPTY TRAILER"
+    },
+    {
+        "kod": "ATPOST",
+        "pelnyKod": "ATPOST",
+        "opis": "CEQP ATPOST EMPTY TRAILER"
+    },
+    {
+        "kod": "AFDBG",
+        "pelnyKod": "AFDBG",
+        "opis": "CEQP AFDBG EMPTY TRAILER"
+    },
+    {
+        "kod": "AKFJK",
+        "pelnyKod": "AKFJK",
+        "opis": "CEQP AKFJK EMPTY TRAILER"
+    },
+    {
+        "kod": "AHYFD",
+        "pelnyKod": "AHYFD",
+        "opis": "CEQP AHYFD EMPTY TRAILER"
+    },
+    {
+        "kod": "ALSDS",
+        "pelnyKod": "ALSDS",
+        "opis": "CEQP ALSDS EMPTY TRAILER"
+    },
+    {
+        "kod": "ASSXV",
+        "pelnyKod": "ASSXV",
+        "opis": "CEQP ASSXV EMPTY TRAILER"
+    },
+    {
+        "kod": "AVVCA",
+        "pelnyKod": "AVVCA",
+        "opis": "CEQP AVVCA EMPTY TRAILER"
+    },
+    {
+        "kod": "HELLM",
+        "pelnyKod": "HELLM",
+        "opis": "CEQP HELLM EMPTY TRAILER"
+    },
+    {
+        "kod": "AQJXN",
+        "pelnyKod": "AQJXN",
+        "opis": "CEQP AQJXN EMPTY TRAILER"
+    },
+    {
+        "kod": "AMZ01",
+        "pelnyKod": "AMZ01",
+        "opis": "CEQP AMZ01 EMPTY TRAILER"
+    },
+    {
+        "kod": "RABEN",
+        "pelnyKod": "RABEN",
+        "opis": "CEQP RABEN EMPTY TRAILER"
+    },
+    {
+        "kod": "AZMBC",
+        "pelnyKod": "AZMBC",
+        "opis": "CEQP AZMBC EMPTY TRAILER"
+    },
+    {
+        "kod": "DEMATI",
+        "pelnyKod": "DEMATI",
+        "opis": "CEQP DEMATI EMPTY TRAILER"
+    },
+    {
+        "kod": "KHNFS",
+        "pelnyKod": "KHNFS",
+        "opis": "CEQP KHNFS EMPTY TRAILER"
+    },
+    {
+        "kod": "AEMBT",
+        "pelnyKod": "AEMBT",
+        "opis": "CEQP AEMBT EMPTY TRAILER"
+    },
+    {
+        "kod": "PRIM",
+        "pelnyKod": "PRIM",
+        "opis": "CEQP PRIM EMPTY TRAILER"
+    },
+    {
+        "kod": "AGESZ",
+        "pelnyKod": "AGESZ",
+        "opis": "CEQP AGESZ EMPTY TRAILER"
+    },
+    {
+        "kod": "KIMCL",
+        "pelnyKod": "KIMCL",
+        "opis": "CEQP KIMCL EMPTY TRAILER"
+    },
+    {
+        "kod": "ANSEI",
+        "pelnyKod": "ANSEI",
+        "opis": "CEQP ANSEI EMPTY TRAILER"
+    },
+    {
+        "kod": "AGBOS",
+        "pelnyKod": "AGBOS",
+        "opis": "CEQP AGBOS EMPTY TRAILER"
+    },
+    {
+        "kod": "ABTAY",
+        "pelnyKod": "ABTAY",
+        "opis": "CEQP ABTAY EMPTY TRAILER"
+    },
+    {
+        "kod": "AVQGG",
+        "pelnyKod": "AVQGG",
+        "opis": "CEQP AVQGG EMPTY TRAILER"
+    },
+    {
+        "kod": "REDU6",
+        "pelnyKod": "REDU6",
+        "opis": "CEQP REDU6 EMPTY TRAILER"
+    },
+    {
+        "kod": "AFEFS",
+        "pelnyKod": "AFEFS",
+        "opis": "CEQP AFEFS EMPTY TRAILER"
+    },
+    {
+        "kod": "AVEVL",
+        "pelnyKod": "AVEVL",
+        "opis": "CEQP AVEVL EMPTY TRAILER"
+    },
+    {
+        "kod": "ALCOR",
+        "pelnyKod": "ALCOR",
+        "opis": "CEQP ALCOR EMPTY TRAILER"
+    },
+    {
+        "kod": "AWKMA",
+        "pelnyKod": "AWKMA",
+        "opis": "CEQP AWKMA EMPTY TRAILER"
+    },
+    {
+        "kod": "AQVDN",
+        "pelnyKod": "AQVDN",
+        "opis": "CEQP AQVDN EMPTY TRAILER"
+    },
+    {
+        "kod": "AOYVK",
+        "pelnyKod": "AOYVK",
+        "opis": "CEQP AOYVK EMPTY TRAILER"
+    },
+    {
+        "kod": "AFTSF",
+        "pelnyKod": "AFTSF",
+        "opis": "CEQP AFTSF EMPTY TRAILER"
+    },
+    {
+        "kod": "AAMZO",
+        "pelnyKod": "AAMZO",
+        "opis": "CEQP AAMZO EMPTY TRAILER"
+    },
+    {
+        "kod": "AINSG",
+        "pelnyKod": "AINSG",
+        "opis": "CEQP AINSG EMPTY TRAILER"
+    },
+    {
+        "kod": "AVCKK",
+        "pelnyKod": "AVCKK",
+        "opis": "CEQP AVCKK EMPTY TRAILER"
+    },
+    {
+        "kod": "ASXTL",
+        "pelnyKod": "ASXTL",
+        "opis": "CEQP ASXTL EMPTY TRAILER"
+    },
+    {
+        "kod": "AQMUI",
+        "pelnyKod": "AQMUI",
+        "opis": "CEQP AQMUI EMPTY TRAILER"
+    },
+    {
+        "kod": "AMOPZ",
+        "pelnyKod": "AMOPZ",
+        "opis": "CEQP AMOPZ EMPTY TRAILER"
+    },
+    {
+        "kod": "AJNTT",
+        "pelnyKod": "AJNTT",
+        "opis": "CEQP AJNTT EMPTY TRAILER"
+    },
+    {
+        "kod": "ARYLN",
+        "pelnyKod": "ARYLN",
+        "opis": "CEQP ARYLN EMPTY TRAILER"
+    },
+    {
+        "kod": "AQDZZ",
+        "pelnyKod": "AQDZZ",
+        "opis": "CEQP AQDZZ EMPTY TRAILER"
+    },
+    {
+        "kod": "AAGTA",
+        "pelnyKod": "AAGTA",
+        "opis": "CEQP AAGTA EMPTY TRAILER"
+    },
+    {
+        "kod": "ELDDI",
+        "pelnyKod": "ELDDI",
+        "opis": "CEQP ELDDI EMPTY TRAILER"
+    },
+    {
+        "kod": "NEST",
+        "pelnyKod": "NEST",
+        "opis": "CEQP NEST EMPTY TRAILER"
+    },
+    {
+        "kod": "DVSN",
+        "pelnyKod": "DVSN",
+        "opis": "CEQP DVSN EMPTY TRAILER"
+    },
+    {
+        "kod": "DHLS",
+        "pelnyKod": "DHLS",
+        "opis": "CEQP DHLS EMPTY TRAILER"
+    },
+    {
+        "kod": "GECA6",
+        "pelnyKod": "GECA6",
+        "opis": "CEQP GECA6 EMPTY TRAILER"
+    },
+    {
+        "kod": "ASTEU",
+        "pelnyKod": "ASTEU",
+        "opis": "CEQP ASTEU EMPTY TRAILER"
+    },
+    {
+        "kod": "PAND",
+        "pelnyKod": "PAND",
+        "opis": "CEQP PAND EMPTY TRAILER"
+    },
+    {
+        "kod": "AVPNC",
+        "pelnyKod": "AVPNC",
+        "opis": "CEQP AVPNC EMPTY TRAILER"
+    },
+    {
+        "kod": "AOVCX",
+        "pelnyKod": "AOVCX",
+        "opis": "CEQP AOVCX EMPTY TRAILER"
+    },
+    {
+        "kod": "AGGCS",
+        "pelnyKod": "AGGCS",
+        "opis": "CEQP AGGCS EMPTY TRAILER"
+    },
+    {
+        "kod": "NATANEK",
+        "pelnyKod": "NATANEK",
+        "opis": "CEQP NATANEK EMPTY TRAILER"
+    },
+    {
+        "kod": "LEVIS",
+        "pelnyKod": "LEVIS",
+        "opis": "CEQP LEVIS EMPTY TRAILER"
+    },
+    {
+        "kod": "APIKY",
+        "pelnyKod": "APIKY",
+        "opis": "CEQP APIKY EMPTY TRAILER"
+    },
+    {
+        "kod": "AZGZO",
+        "pelnyKod": "AZGZO",
+        "opis": "CEQP AZGZO EMPTY TRAILER"
+    },
+    {
+        "kod": "AQKUK",
+        "pelnyKod": "AQKUK",
+        "opis": "CEQP AQKUK EMPTY TRAILER"
+    },
+    {
+        "kod": "AAUGT",
+        "pelnyKod": "AAUGT",
+        "opis": "CEQP AAUGT EMPTY TRAILER"
+    },
+    {
+        "kod": "AYYPP",
+        "pelnyKod": "AYYPP",
+        "opis": "CEQP AYYPP EMPTY TRAILER"
+    },
+    {
+        "kod": "AXXTX",
+        "pelnyKod": "AXXTX",
+        "opis": "CEQP AXXTX EMPTY TRAILER"
+    },
+    {
+        "kod": "PGSC",
+        "pelnyKod": "PGSC",
+        "opis": "CEQP PGSC EMPTY TRAILER"
+    },
+    {
+        "kod": "AOTTL",
+        "pelnyKod": "AOTTL",
+        "opis": "CEQP AOTTL EMPTY TRAILER"
+    },
+    {
+        "kod": "AJQHU",
+        "pelnyKod": "AJQHU",
+        "opis": "CEQP AJQHU EMPTY TRAILER"
+    },
+    {
+        "kod": "AMRJE",
+        "pelnyKod": "AMRJE",
+        "opis": "CEQP AMRJE EMPTY TRAILER"
+    },
+    {
+        "kod": "ABPVB",
+        "pelnyKod": "ABPVB",
+        "opis": "CEQP ABPVB EMPTY TRAILER"
+    },
+    {
+        "kod": "RTS",
+        "pelnyKod": "RTS",
+        "opis": "CEQP RTS EMPTY TRAILER"
+    },
+    {
+        "kod": "BRT",
+        "pelnyKod": "BRT",
+        "opis": "CEQP BRT EMPTY TRAILER"
+    },
+    {
+        "kod": "AVIQK",
+        "pelnyKod": "AVIQK",
+        "opis": "CEQP AVIQK EMPTY TRAILER"
+    },
+    {
+        "kod": "AINDQ",
+        "pelnyKod": "AINDQ",
+        "opis": "CEQP AINDQ EMPTY TRAILER"
+    },
+    {
+        "kod": "AGORA",
+        "pelnyKod": "AGORA",
+        "opis": "CEQP AGORA EMPTY TRAILER"
+    },
+    {
+        "kod": "ATZDN",
+        "pelnyKod": "ATZDN",
+        "opis": "CEQP ATZDN EMPTY TRAILER"
+    },
+    {
+        "kod": "ATEAS",
+        "pelnyKod": "ATEAS",
+        "opis": "CEQP ATEAS EMPTY TRAILER"
+    },
+    {
+        "kod": "AEVKB",
+        "pelnyKod": "AEVKB",
+        "opis": "CEQP AEVKB EMPTY TRAILER"
+    },
+    {
+        "kod": "AUTJA",
+        "pelnyKod": "AUTJA",
+        "opis": "CEQP AUTJA EMPTY TRAILER"
+    },
+    {
+        "kod": "ACSVM",
+        "pelnyKod": "ACSVM",
+        "opis": "CEQP ACSVM EMPTY TRAILER"
+    },
+    {
+        "kod": "1BTS2",
+        "pelnyKod": "1BTS2",
+        "opis": "CEQP 1BTS2 EMPTY TRAILER"
+    },
+    {
+        "kod": "AAPRN",
+        "pelnyKod": "AAPRN",
+        "opis": "CEQP AAPRN EMPTY TRAILER"
+    },
+    {
+        "kod": "ATTMS",
+        "pelnyKod": "ATTMS",
+        "opis": "CEQP ATTMS EMPTY TRAILER"
+    },
+    {
+        "kod": "ASDTN",
+        "pelnyKod": "ASDTN",
+        "opis": "CEQP ASDTN EMPTY TRAILER"
+    },
+    {
+        "kod": "ASNTR",
+        "pelnyKod": "ASNTR",
+        "opis": "CEQP ASNTR EMPTY TRAILER"
+    },
+    {
+        "kod": "AIMCD",
+        "pelnyKod": "AIMCD",
+        "opis": "CEQP AIMCD EMPTY TRAILER"
+    },
+    {
+        "kod": "PARCF",
+        "pelnyKod": "PARCF",
+        "opis": "CEQP PARCF EMPTY TRAILER"
+    },
+    {
+        "kod": "DYTR6",
+        "pelnyKod": "DYTR6",
+        "opis": "CEQP DYTR6 EMPTY TRAILER"
+    },
+    {
+        "kod": "MRWXX",
+        "pelnyKod": "MRWXX",
+        "opis": "CEQP MRWXX EMPTY TRAILER"
+    },
+    {
+        "kod": "ATEMU",
+        "pelnyKod": "ATEMU",
+        "opis": "CEQP ATEMU EMPTY TRAILER"
+    },
+    {
+        "kod": "AMXAY",
+        "pelnyKod": "AMXAY",
+        "opis": "CEQP AMXAY EMPTY TRAILER"
+    },
+    {
+        "kod": "ATRFM",
+        "pelnyKod": "ATRFM",
+        "opis": "CEQP ATRFM EMPTY TRAILER"
+    },
+    {
+        "kod": "AITTK",
+        "pelnyKod": "AITTK",
+        "opis": "CEQP AITTK EMPTY TRAILER"
+    },
+    {
+        "kod": "1DPDXX",
+        "pelnyKod": "1DPDXX",
+        "opis": "CEQP 1DPDXX EMPTY TRAILER"
+    },
+    {
+        "kod": "ATREG",
+        "pelnyKod": "ATREG",
+        "opis": "CEQP ATREG EMPTY TRAILER"
+    },
+    {
+        "kod": "AKOMT",
+        "pelnyKod": "AKOMT",
+        "opis": "CEQP AKOMT EMPTY TRAILER"
+    },
+    {
+        "kod": "AEUMZ",
+        "pelnyKod": "AEUMZ",
+        "opis": "CEQP AEUMZ EMPTY TRAILER"
+    },
+    {
+        "kod": "PGSE",
+        "pelnyKod": "PGSE",
+        "opis": "CEQP PGSE EMPTY TRAILER"
+    },
+    {
+        "kod": "AVPGS",
+        "pelnyKod": "AVPGS",
+        "opis": "CEQP AVPGS EMPTY TRAILER"
+    },
+    {
+        "kod": "TMFT",
+        "pelnyKod": "TMFT",
+        "opis": "CEQP TMFT EMPTY TRAILER"
+    },
+    {
+        "kod": "AHBSL",
+        "pelnyKod": "AHBSL",
+        "opis": "CEQP AHBSL EMPTY TRAILER"
+    },
+    {
+        "kod": "ACLEN",
+        "pelnyKod": "ACLEN",
+        "opis": "CEQP ACLEN EMPTY TRAILER"
+    },
+    {
+        "kod": "AIPBS",
+        "pelnyKod": "AIPBS",
+        "opis": "CEQP AIPBS EMPTY TRAILER"
+    },
+    {
+        "kod": "AHJQZ",
+        "pelnyKod": "AHJQZ",
+        "opis": "CEQP AHJQZ EMPTY TRAILER"
+    },
+    {
+        "kod": "AFGIX",
+        "pelnyKod": "AFGIX",
+        "opis": "CEQP AFGIX EMPTY TRAILER"
+    },
+    {
+        "kod": "AABYD",
+        "pelnyKod": "AABYD",
+        "opis": "CEQP AABYD EMPTY TRAILER"
+    },
+    {
+        "kod": "AUWXW",
+        "pelnyKod": "AUWXW",
+        "opis": "CEQP AUWXW EMPTY TRAILER"
+    },
+    {
+        "kod": "GLSF",
+        "pelnyKod": "GLSF",
+        "opis": "CEQP GLSF EMPTY TRAILER"
+    },
+    {
+        "kod": "ASABL",
+        "pelnyKod": "ASABL",
+        "opis": "CEQP ASABL EMPTY TRAILER"
+    },
+    {
+        "kod": "AAILO",
+        "pelnyKod": "AAILO",
+        "opis": "CEQP AAILO EMPTY TRAILER"
+    },
+    {
+        "kod": "AMAUK",
+        "pelnyKod": "AMAUK",
+        "opis": "CEQP AMAUK EMPTY TRAILER"
+    },
+    {
+        "kod": "DHLFG",
+        "pelnyKod": "DHLFG",
+        "opis": "CEQP DHLFG EMPTY TRAILER"
+    },
+    {
+        "kod": "ACBGL",
+        "pelnyKod": "ACBGL",
+        "opis": "CEQP ACBGL EMPTY TRAILER"
+    },
+    {
+        "kod": "APBCL",
+        "pelnyKod": "APBCL",
+        "opis": "CEQP APBCL EMPTY TRAILER"
+    },
+    {
+        "kod": "AATSS",
+        "pelnyKod": "AATSS",
+        "opis": "CEQP AATSS EMPTY TRAILER"
+    },
+    {
+        "kod": "AZHAJ",
+        "pelnyKod": "AZHAJ",
+        "opis": "CEQP AZHAJ EMPTY TRAILER"
+    },
+    {
+        "kod": "ADQHI",
+        "pelnyKod": "ADQHI",
+        "opis": "CEQP ADQHI EMPTY TRAILER"
+    },
+    {
+        "kod": "CURRI",
+        "pelnyKod": "CURRI",
+        "opis": "CEQP CURRI EMPTY TRAILER"
+    },
+    {
+        "kod": "ATFEH",
+        "pelnyKod": "ATFEH",
+        "opis": "CEQP ATFEH EMPTY TRAILER"
+    },
+    {
+        "kod": "STEN",
+        "pelnyKod": "STEN",
+        "opis": "CEQP STEN EMPTY TRAILER"
+    },
+    {
+        "kod": "AIWIP",
+        "pelnyKod": "AIWIP",
+        "opis": "CEQP AIWIP EMPTY TRAILER"
+    },
+    {
+        "kod": "ADCOK",
+        "pelnyKod": "ADCOK",
+        "opis": "CEQP ADCOK EMPTY TRAILER"
+    },
+    {
+        "kod": "AYPFA",
+        "pelnyKod": "AYPFA",
+        "opis": "CEQP AYPFA EMPTY TRAILER"
+    },
+    {
+        "kod": "AIZFQ",
+        "pelnyKod": "AIZFQ",
+        "opis": "CEQP AIZFQ EMPTY TRAILER"
+    },
+    {
+        "kod": "ADAM",
+        "pelnyKod": "ADAM",
+        "opis": "CEQP ADAM EMPTY TRAILER"
+    },
+    {
+        "kod": "AFEBD",
+        "pelnyKod": "AFEBD",
+        "opis": "CEQP AFEBD EMPTY TRAILER"
+    },
+    {
+        "kod": "AIMUR",
+        "pelnyKod": "AIMUR",
+        "opis": "CEQP AIMUR EMPTY TRAILER"
+    },
+    {
+        "kod": "AKLTD",
+        "pelnyKod": "AKLTD",
+        "opis": "CEQP AKLTD EMPTY TRAILER"
+    },
+    {
+        "kod": "AJFJC",
+        "pelnyKod": "AJFJC",
+        "opis": "CEQP AJFJC EMPTY TRAILER"
+    },
+    {
+        "kod": "AIDSE",
+        "pelnyKod": "AIDSE",
+        "opis": "CEQP AIDSE EMPTY TRAILER"
+    },
+    {
+        "kod": "AEFGU",
+        "pelnyKod": "AEFGU",
+        "opis": "CEQP AEFGU EMPTY TRAILER"
+    },
+    {
+        "kod": "ANBYG",
+        "pelnyKod": "ANBYG",
+        "opis": "CEQP ANBYG EMPTY TRAILER"
+    },
+    {
+        "kod": "AEDHD",
+        "pelnyKod": "AEDHD",
+        "opis": "CEQP AEDHD EMPTY TRAILER"
+    },
+    {
+        "kod": "AUFMO",
+        "pelnyKod": "AUFMO",
+        "opis": "CEQP AUFMO EMPTY TRAILER"
+    },
+    {
+        "kod": "JPLI",
+        "pelnyKod": "JPLI",
+        "opis": "CEQP JPLI EMPTY TRAILER"
+    },
+    {
+        "kod": "AFRIG",
+        "pelnyKod": "AFRIG",
+        "opis": "CEQP AFRIG EMPTY TRAILER"
+    },
+    {
+        "kod": "ATRSS",
+        "pelnyKod": "ATRSS",
+        "opis": "CEQP ATRSS EMPTY TRAILER"
+    },
+    {
+        "kod": "AZTSG",
+        "pelnyKod": "AZTSG",
+        "opis": "CEQP AZTSG EMPTY TRAILER"
+    },
+    {
+        "kod": "AVZQX",
+        "pelnyKod": "AVZQX",
+        "opis": "CEQP AVZQX EMPTY TRAILER"
+    },
+    {
+        "kod": "AJGSX",
+        "pelnyKod": "AJGSX",
+        "opis": "CEQP AJGSX EMPTY TRAILER"
+    },
+    {
+        "kod": "AYEDT",
+        "pelnyKod": "AYEDT",
+        "opis": "CEQP AYEDT EMPTY TRAILER"
+    },
+    {
+        "kod": "AVRBR",
+        "pelnyKod": "AVRBR",
+        "opis": "CEQP AVRBR EMPTY TRAILER"
+    },
+    {
+        "kod": "ATSPK",
+        "pelnyKod": "ATSPK",
+        "opis": "CEQP ATSPK EMPTY TRAILER"
+    },
+    {
+        "kod": "UNI1",
+        "pelnyKod": "UNI1",
+        "opis": "CEQP UNI1 EMPTY TRAILER"
+    },
+    {
+        "kod": "ATSAS",
+        "pelnyKod": "ATSAS",
+        "opis": "CEQP ATSAS EMPTY TRAILER"
+    },
+    {
+        "kod": "ATHNI",
+        "pelnyKod": "ATHNI",
+        "opis": "CEQP ATHNI EMPTY TRAILER"
+    },
+    {
+        "kod": "GEOD5",
+        "pelnyKod": "GEOD5",
+        "opis": "CEQP GEOD5 EMPTY TRAILER"
+    },
+    {
+        "kod": "ANMSW",
+        "pelnyKod": "ANMSW",
+        "opis": "CEQP ANMSW EMPTY TRAILER"
+    },
+    {
+        "kod": "AYCUS",
+        "pelnyKod": "AYCUS",
+        "opis": "CEQP AYCUS EMPTY TRAILER"
+    },
+    {
+        "kod": "ADUTD",
+        "pelnyKod": "ADUTD",
+        "opis": "CEQP ADUTD EMPTY TRAILER"
+    },
+    {
+        "kod": "AUTCM",
+        "pelnyKod": "AUTCM",
+        "opis": "CEQP AUTCM EMPTY TRAILER"
+    },
+    {
+        "kod": "AAITQ",
+        "pelnyKod": "AAITQ",
+        "opis": "CEQP AAITQ EMPTY TRAILER"
+    },
+    {
+        "kod": "AMRNI",
+        "pelnyKod": "AMRNI",
+        "opis": "CEQP AMRNI EMPTY TRAILER"
+    },
+    {
+        "kod": "MFT",
+        "pelnyKod": "MFT",
+        "opis": "CEQP MFT EMPTY TRAILER"
+    },
+    {
+        "kod": "ATRQN",
+        "pelnyKod": "ATRQN",
+        "opis": "CEQP ATRQN EMPTY TRAILER"
+    },
+    {
+        "kod": "AGOUI",
+        "pelnyKod": "AGOUI",
+        "opis": "CEQP AGOUI EMPTY TRAILER"
+    },
+    {
+        "kod": "DPPD",
+        "pelnyKod": "DPPD",
+        "opis": "CEQP DPPD EMPTY TRAILER"
+    },
+    {
+        "kod": "SEUR6",
+        "pelnyKod": "SEUR6",
+        "opis": "CEQP SEUR6 EMPTY TRAILER"
+    },
+    {
+        "kod": "ASAAM",
+        "pelnyKod": "ASAAM",
+        "opis": "CEQP ASAAM EMPTY TRAILER"
+    },
+    {
+        "kod": "GANP",
+        "pelnyKod": "GANP",
+        "opis": "CEQP GANP EMPTY TRAILER"
+    },
+    {
+        "kod": "AGYDK",
+        "pelnyKod": "AGYDK",
+        "opis": "CEQP AGYDK EMPTY TRAILER"
+    },
+    {
+        "kod": "APWMO",
+        "pelnyKod": "APWMO",
+        "opis": "CEQP APWMO EMPTY TRAILER"
+    },
+    {
+        "kod": "ARMBS",
+        "pelnyKod": "ARMBS",
+        "opis": "CEQP ARMBS EMPTY TRAILER"
+    },
+    {
+        "kod": "ALJKP",
+        "pelnyKod": "ALJKP",
+        "opis": "CEQP ALJKP EMPTY TRAILER"
+    },
+    {
+        "kod": "REAL",
+        "pelnyKod": "REAL",
+        "opis": "CEQP REAL EMPTY TRAILER"
+    },
+    {
+        "kod": "ATHTL",
+        "pelnyKod": "ATHTL",
+        "opis": "CEQP ATHTL EMPTY TRAILER"
+    },
+    {
+        "kod": "APOPL",
+        "pelnyKod": "APOPL",
+        "opis": "CEQP APOPL EMPTY TRAILER"
+    },
+    {
+        "kod": "AGSDU",
+        "pelnyKod": "AGSDU",
+        "opis": "CEQP AGSDU EMPTY TRAILER"
+    },
+    {
+        "kod": "APAMP",
+        "pelnyKod": "APAMP",
+        "opis": "CEQP APAMP EMPTY TRAILER"
+    },
+    {
+        "kod": "NONINV",
+        "pelnyKod": "NONINV",
+        "opis": "CEQP NONINV EMPTY TRAILER"
+    },
+    {
+        "kod": "ANXIY",
+        "pelnyKod": "ANXIY",
+        "opis": "CEQP ANXIY EMPTY TRAILER"
+    },
+    {
+        "kod": "LEG54",
+        "pelnyKod": "LEG54",
+        "opis": "CEQP LEG54 EMPTY TRAILER"
+    }
+]
 ]
