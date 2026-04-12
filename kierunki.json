@@ -121,7 +121,7 @@
   { "kod": "MDY1", "adres": "MDY1\nJÄGERSTR. 1\nMAGDEBURG,\n39112", "typ": "INTERNATIONAL" },
   { "kod": "MER1", "adres": "MER1\nLEUNASTR. 50\nLEUNA,\n06217", "typ": "INTERNATIONAL" },
   { "kod": "NEU1", "adres": "NEU1\nDR.-ISIDOR-NEUMANN-STR. 1\nNEURUPPIN,\n16816", "typ": "INTERNATIONAL" },
-  { "kod": "NUE1", "adres": "NUE1\nCONRAD-RÖNTGEN-STR. 2\nERLANGEN,\n91052", "typ": "INTERNATIONAL" },
+  { "kod": "NUE1", "adres": "NUE1\nAMAZONATRABE 1\nGATTENDORF,BAVARIA\n95185", "typ": "INTERNATIONAL" },
   { "kod": "NUE2", "adres": "NUE2\nHAMBURGER STR. 99\nNÜRNBERG,\n90451", "typ": "INTERNATIONAL" },
   { "kod": "NUE3", "adres": "NUE3\nAM TOWER 12\nNÜRNBERG,\n90475", "typ": "INTERNATIONAL" },
   { "kod": "NUE5", "adres": "NUE5\nAM EUROPAKAI 12\nNÜRNBERG,\n90451", "typ": "INTERNATIONAL" },
