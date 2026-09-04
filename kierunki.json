@@ -270,4 +270,9 @@
   { "kod": "TRN3", "adres": "TRN3\nSTRADA JOHN FITZGERALD KENNEDY\nALESSANDRIA\nPIEDMONT\n15122", "typ": "INTERNATIONAL" },
   { "kod": "BHLE", "adres": "BHLE\nDOMO COLLECTION\nLEŚNA 6\nŚREM, WIELKOPOLSKIE\n63-100", "typ": "NATIONAL" },
   { "kod": "DTH1", "adres": "DTH1\nJOSEPH MEYER\nSTRABE 5 \nERFUT, THURRINGIA\n99095", "typ": "INTERNATIONAL" },
+{
+        "kod": "TIP OSCHATZ",
+        "adres": "TIP OSCHATZ\nUlanenweg 13 \nOschatz\n04758",
+        "typ": "INTERNATIONAL"
+    },
 ]
