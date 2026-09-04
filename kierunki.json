@@ -1,10 +1,5 @@
 [
   {
-    "kod": "SSSA",
-    "typ": "NATIONAL",
-    "adres": "sssa\nasas\nasas"
-  },
-  {
     "kod": "BHX2",
     "adres": "BHX2\nROBSON WAY ELLISTOWN,\nCOALVILLE,\nLE67 1GQ",
     "typ": "INTERNATIONAL"
