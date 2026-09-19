@@ -1,5 +1,10 @@
 [
   {
+    "kod": "WS WROCLAW",
+    "typ": "NATIONAL",
+    "adres": "WS WROCLAW\nTIP Trailer Services Poland, Ul. Opolska 188\nWroclaw\n52014"
+  },
+  {
     "kod": "EEZJ BEGA",
     "typ": "NATIONAL",
     "adres": "EEZJ Bega\nul. Logistyczna 7\nDąbrówka, Grójec\n62-070"
