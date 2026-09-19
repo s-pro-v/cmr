@@ -1,5 +1,10 @@
 [
   {
+    "kod": "FVWP",
+    "typ": "NATIONAL",
+    "adres": "FVWP\nMagazyn Wyrobów Gotowych Suwałki\nul. Północna 30\nSuwalki\n16-400"
+  },
+  {
     "kod": "XLE1",
     "typ": "INTERNATIONAL",
     "adres": "XLE1\nBrakenhof 10\nMittelweserpark\nEstorf, Lower Saxony\n31629"
