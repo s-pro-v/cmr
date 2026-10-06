@@ -1,5 +1,10 @@
 [
   {
+    "kod": "CDG7",
+    "typ": "INTERNATIONAL",
+    "adres": "CDG7\nAvenue Alain Boucher\nSenlis, Hauts-de-France,\n60300 FR"
+  },
+  {
     "kod": "PATTERN__52_326_541",
     "typ": "NATIONAL",
     "adres": "PATTERN__52_326_541 \nPattern Poland Sp. Z o.o.\nul.Targowa 3\nWroclaw\n52-326"
