@@ -1,5 +1,10 @@
 [
   {
+    "kod": "XDU8",
+    "typ": "INTERNATIONAL",
+    "adres": "XDU8\nSeewindstrasse, 5\nMAERSK Damco Germany GmbH\nBremerhaven, 27572\nDE"
+  },
+  {
     "kod": "CDG7",
     "typ": "INTERNATIONAL",
     "adres": "CDG7\nAvenue Alain Boucher\nSenlis, Hauts-de-France,\n60300 FR"
